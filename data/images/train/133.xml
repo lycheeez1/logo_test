@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apple (0~)</folder>
+	<filename>133.jpg</filename>
+	<path>C:\CV_DeepLearning\LOGOdetection\img_logo\resized\apple (0~)\133.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>138</ymin>
+			<xmax>294</xmax>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>
